@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá! Eu sou Havan Costa 👋
 
-<!--
-**HavanCosta/HavanCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
-Here are some ideas to get you started:
+## 🚀 Atualmente estudando
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Git e GitHub
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- SQL
+
+## 🎯 Objetivo
+
+Conquistar minha primeira oportunidade como Desenvolvedor.
+
+## 🏐 Sobre mim
+
+Profissional de Educação Física, Professor de Futevôlei e apaixonado por tecnologia.
