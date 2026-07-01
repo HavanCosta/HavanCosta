@@ -17,4 +17,4 @@ Conquistar minha primeira oportunidade como Desenvolvedor.
 
 ## 🏐 Sobre mim
 
-Profissional de Educação Física, Professor de Futevôlei e apaixonado por tecnologia.
+Sou professor de Futevôlei e graduado em Educação Física. Atualmente curso Análise e Desenvolvimento de Sistemas e estou em transição de carreira para a área de tecnologia, construindo projetos e buscando minha primeira oportunidade como desenvolvedor.
